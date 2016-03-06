@@ -2477,6 +2477,9 @@ var domains = {
   "1-apple.com.tw": 1
   "storm.mg": 1
   "thinkingtaiwan.com": 1
+  "nextmag.com.tw": 1
+  "ltn.com.tw": 1
+  "appledaily.com.tw": 1  
 };
 
 var proxy = "__PROXY__";
